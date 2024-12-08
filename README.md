@@ -1,2 +1,2 @@
 # start_lesson_html
-srat lesson html 
+(https://yasha-pixel.github.io/start_lesson_html/)
